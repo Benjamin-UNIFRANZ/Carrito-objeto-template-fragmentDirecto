@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a70258-e107-4fa4-8e5a-57a2d98693c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JACASCRIPTCABO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/benji.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appPrincipal.js" beforeDir="false" afterPath="$PROJECT_DIR$/appPrincipal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/app.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/component breadcrumbs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/components panel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/move button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/overview panel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/pencil button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/selected.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/settings panel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/up button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fundamentos_flexbox" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentos_flexbox" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +18,10 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <branch-grouping>
+      <option value="directory" />
+      <option value="repository" />
+    </branch-grouping>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -58,10 +40,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Coverage&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.appPrincipal.js.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;nueva-rama3&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;nueva-rama3-sub-rama&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/benji/Documents/bootstrap A/JACASCRIPTCABO&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -69,7 +51,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -82,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.appPrincipal.js" />
       </list>
@@ -131,7 +114,37 @@
       <workItem from="1726711456987" duration="1054000" />
       <workItem from="1726712554441" duration="1277000" />
       <workItem from="1726713843925" duration="1351000" />
-      <workItem from="1726753755668" duration="9129000" />
+      <workItem from="1726753755668" duration="23391000" />
+      <workItem from="1726836866257" duration="822000" />
+      <workItem from="1726837845081" duration="21000" />
+      <workItem from="1726838185343" duration="8000" />
+      <workItem from="1726838204794" duration="338000" />
+      <workItem from="1726838546427" duration="847000" />
+      <workItem from="1726839396290" duration="58000" />
+      <workItem from="1726839694354" duration="10000" />
+      <workItem from="1726839911206" duration="5000" />
+      <workItem from="1726839933293" duration="98000" />
+      <workItem from="1726840040805" duration="638000" />
+      <workItem from="1726840710632" duration="31000" />
+      <workItem from="1726841232379" duration="21000" />
+      <workItem from="1726841271813" duration="16000" />
+      <workItem from="1726841297894" duration="159000" />
+      <workItem from="1726841485256" duration="26000" />
+      <workItem from="1726841523324" duration="16000" />
+      <workItem from="1726841549617" duration="1000" />
+      <workItem from="1726841582180" duration="17000" />
+      <workItem from="1726841617114" duration="6000" />
+      <workItem from="1726841633573" duration="265000" />
+      <workItem from="1726841916313" duration="8000" />
+      <workItem from="1726841951411" duration="29000" />
+      <workItem from="1726841989426" duration="239000" />
+      <workItem from="1726842265685" duration="1000" />
+      <workItem from="1726842275084" duration="3000" />
+      <workItem from="1726842301216" duration="109000" />
+      <workItem from="1726842422508" duration="30000" />
+      <workItem from="1726842478825" duration="513000" />
+      <workItem from="1726843057509" duration="11000" />
+      <workItem from="1726843074864" duration="15000" />
     </task>
     <servers />
   </component>
@@ -143,28 +156,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                        <option value="$PROJECT_DIR$/.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/appPrincipal.js</url>
-          <line>32</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JACASCRIPTCABO$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1726714680179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JACASCRIPTCABO$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1726790565901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
